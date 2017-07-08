@@ -6,7 +6,7 @@ This repo contains the R code to create an animated map visualizing the change o
 
 ### Download the data
 
-Download the datasets in the `data` file and the `transition-map-helpers.R` and save them in a folder.
+Download the datasets in `data.zip` and the `transition-map-helpers.R` and save them in a folder.
 
 ### Installation
 
